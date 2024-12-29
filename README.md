@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Android , Php**
+- 💬 Ask me about **Laravel , Php**
 
 - 📫 How to reach me **sadmanmd225@gmail.com**
 
