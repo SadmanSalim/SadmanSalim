@@ -32,7 +32,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadmansalim&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sadmansalim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadmansalim&show_icons=true&locale=en&theme=tokyonight" alt="sadmansalim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadmansalim&&theme=tokyonight" alt="sadmansalim" /></p>
-
